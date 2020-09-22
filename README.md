@@ -1,4 +1,5 @@
-# test
+# nuxt vue-router module bug
+render function or template not defined in component: anonymous
 
 ## Build Setup
 
